@@ -8,5 +8,8 @@ outputs/
 *.npz
 *.pt
 *.mp4
+# GIFs and PNGs ignored by default; assets/ is an explicit exception
 *.gif
+!assets/*.gif
+!assets/*.png
 .ipynb_checkpoints/
