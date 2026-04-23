@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/
+checkpoints/
+outputs/
+*.npz
+*.pt
+*.mp4
+*.gif
+.ipynb_checkpoints/
