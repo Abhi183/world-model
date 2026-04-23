@@ -136,7 +136,3 @@ world-model/
 - [pycma — Hansen et al.](https://github.com/CMA-ES/pycma)
 
 ---
-
-## Author
-
-Abhishek Shekhar — [@Abhi183](https://github.com/Abhi183)
